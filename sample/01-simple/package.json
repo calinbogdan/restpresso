@@ -1,0 +1,14 @@
+{
+  "name": "01-simple",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@restretto/core": "*"
+  },
+  "scripts": {
+    "dev": "nodemon -e ts --exec ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Calin Bogdan",
+  "license": "ISC"
+}
